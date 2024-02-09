@@ -11,9 +11,11 @@ View - Responsável pela interface apresentada ao usuário;
 Controller - É responsável pela lógica de negócios do sistema. É uma espécie de “maestro” do sistema.
 
 ![image](https://github.com/bernardolucas2001/Implanta-o_MVC_C-/assets/83489813/2077d8a0-fae4-458e-ab03-34ccc7d06182)
+
 Figura 1 - Visão sistêmica
 
 
 ![image](https://github.com/bernardolucas2001/Implanta-o_MVC_C-/assets/83489813/5f8362d1-4537-495d-8257-10c4e5c7cd34)
+
 Figura 2 - MVC acessando banco
 
